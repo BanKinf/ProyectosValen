@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+
 
 /* Reset y estilos base */
 * {
@@ -114,22 +114,7 @@ header p {
     text-shadow: 4px 4px 6px #0008;
 }
 
-#resume-btn {
-    background-color: #202430;
-    max-width: 150px;
-    color: white;
-    border-color: #F797FC;
-    padding: 0.5rem 1rem;
-    font-size: 1rem;
-    cursor: pointer;
-    border-radius: 0.25rem;
-    transition: 0.3s;
-    text-shadow: 4px 4px 6px #0005;
-}
 
-#resume-btn:hover {
-    scale: 1.1;
-}
 
 /* About section */
 #about {
